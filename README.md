@@ -8,7 +8,7 @@ Ce répertoire permet aux étudiants du projet Hello Car RC de publier leur prop
 
 Le but ici est d'apprendre à utiliser Git et la publication de *pull requests* sur GitHub.
 
-Voir le tutoriel pour en apprendre plus: [Tutorial ->](BonjourMunity)
+Voir le tutoriel pour en apprendre plus: [Tutorial ->](BonjourMunity.md)
 
 
 
@@ -18,4 +18,4 @@ This repository allows students from the Hello Car RC project to publish their o
 
 The goal here is to learn how to use Git and the process of submitting pull requests on GitHub.
 
-Check out the tutorial to learn more: [Tutorial ->](HelloMunity)
+Check out the tutorial to learn more: [Tutorial ->](HelloMunity.md)
