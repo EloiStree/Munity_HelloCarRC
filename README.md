@@ -32,8 +32,8 @@ Check out the tutorial to learn more: [Tutorial ->](HelloMunity.md)
 
 
 
-// Use the 3D model created at Girleek
-// Texture of the body
-Body_GlHeRC.png
-// Texture of the Wheel
-Wheel_GlHeRC.png
+// Use the 3D model created at Girleek   
+// Texture of the body   
+Body_GlHeRC.png   
+// Texture of the Wheel   
+Wheel_GlHeRC.png    
