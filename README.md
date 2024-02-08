@@ -37,3 +37,8 @@ Check out the tutorial to learn more: [Tutorial ->](HelloMunity.md)
 Body_GlHeRC.png   
 // Texture of the Wheel   
 Wheel_GlHeRC.png    
+
+
+Default = https://github.com/EloiStree/Munity_HelloCarRC_Assets/tree/main/GUID/bc14c7a1-c615-4f9a-9be0-faf1b83195d5
+- Body https://github.com/EloiStree/Munity_HelloCarRC_Assets/blob/main/GUID/bc14c7a1-c615-4f9a-9be0-faf1b83195d5/Body_GlHeRC.png
+- Wheelhttps://github.com/EloiStree/Munity_HelloCarRC_Assets/blob/main/GUID/bc14c7a1-c615-4f9a-9be0-faf1b83195d5/Wheel_GlHeRC.png
